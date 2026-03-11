@@ -10,7 +10,7 @@
 ## Description
 This Project uses elo scores (obtained from ClubElo.com) to simulate the 2015/16 Premier League Season in which Leicester City beat the odds, winning the Premier League. Famously, bookmakers were offering odds at the start of the season of 5000/1 for Leicester to win the Premier League (implied probability ~ 0.02%).
 
-In this project, I simulated the season 100,000 times to see how (un)likely Leicester winning the Premier League was. My model was quite a bit more generous to Leicester City, giving them title winning odds of ~xxx%. By no means, however, do I believe my model is better at predicting league table positions than the complex ones used in the gambling industry. 
+In this project, I simulated the season 100,000 times to see how (un)likely Leicester winning the Premier League was. My model was quite a bit more generous to Leicester City, giving them title winning odds of ~0.131% (or 131/100,000). By no means, however, do I believe my model is better at predicting league table positions than the complex ones used in the gambling industry. 
 
 ## 1. 2015/16 Premier League Fixtures 
 Obtained the fixture list for the 2015/16 Season using the Premier League's API. 
